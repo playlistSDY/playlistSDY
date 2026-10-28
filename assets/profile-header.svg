@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="title desc">
+  <title id="title">Son Dongyeol</title>
+  <desc id="desc">Backend, Infrastructure, Hardware. Hanyang University ERICA.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#131a2b"/><stop offset="1" stop-color="#22213b"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#c9e89b"/><stop offset="1" stop-color="#9596ea"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1200" height="290" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="290" rx="18" fill="url(#grid)"/>
+  <rect x="49" y="46" width="7" height="7" rx="2" fill="#c9e89b"/>
+  <text x="68" y="54" fill="#a6adc3" font-family="Arial, sans-serif" font-size="12" letter-spacing="3">PLAYLISTSDY</text>
+  <text x="46" y="131" fill="#f3f4fa" font-family="Arial, sans-serif" font-weight="700" font-size="58" letter-spacing="-2">SON DONGYEOL<tspan fill="#c9e89b">.</tspan></text>
+  <text x="50" y="174" fill="#c9e89b" font-family="Arial, sans-serif" font-size="15" letter-spacing="3">BACKEND / INFRASTRUCTURE / HARDWARE</text>
+  <path d="M50 207H688" stroke="#ffffff" stroke-opacity=".13"/>
+  <text x="50" y="244" fill="#a6adc3" font-family="Arial, sans-serif" font-size="12" letter-spacing="1.7">HANYANG UNIVERSITY ERICA</text>
+  <text x="610" y="244" fill="#a6adc3" font-family="Arial, sans-serif" font-size="12">sdy.world</text>
+  <g fill="none" stroke="url(#accent)" stroke-width="1.4">
+    <path d="M810 95H874V151H946V210H1095" opacity=".7"/>
+    <path d="M810 210H852V151M946 151H1060V95H1095" opacity=".5"/>
+    <rect x="757" y="69" width="66" height="52" rx="9" fill="#1a2034"/>
+    <rect x="757" y="184" width="66" height="52" rx="9" fill="#1a2034"/>
+    <rect x="907" y="118" width="78" height="66" rx="11" fill="#1a2034"/>
+    <rect x="1082" y="69" width="66" height="52" rx="9" fill="#1a2034"/>
+    <rect x="1082" y="184" width="66" height="52" rx="9" fill="#1a2034"/>
+    <path d="m782 87-8 8 8 8m16-16 8 8-8 8M778 202h24m-24 8h24m-24 8h12M926 137h40v12h-40zm0 19h40v12h-40zM1100 87h30v16h-30zm8 16v8h14v-8M1100 203h30v15h-30z"/>
+  </g>
+  <g fill="#c9e89b"><circle cx="874" cy="151" r="4"/><circle cx="1060" cy="151" r="4"/><circle cx="932" cy="143" r="2"/><circle cx="932" cy="162" r="2"/></g>
+</svg>
