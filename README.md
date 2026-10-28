@@ -13,43 +13,38 @@
 
 - **손동열 · Son Dongyeol**
 - 한양대학교 ERICA 컴퓨터학부 재학
-- 컴퓨터 조립·수리 · 서버·네트워크 인프라 구축
+- 컴퓨터 조립·수리 · 서버·네트워크 · OS·가상화
 - CAD 활용 · 개인 3D 프린터 보유
 - 아두이노 관련 대학 수업 조교
 
-## 🖥 Hardware & Infrastructure
-
-| 분야 | 작업 |
-| :--- | :--- |
-| **컴퓨터·서버** | 부품 선정·구매 · 조립 · 수리 · 용도에 맞춘 설정 |
-| **OS·가상화** | OS·하이퍼바이저 구성 설계 · Proxmox 구축 · VM 구성·관리 |
-| **네트워크** | 네트워크 인프라 구축 · OPNsense·프록시·VPN 설정 |
-| **Homelab** | **현재 운영 중인 모든 서비스 자체 호스팅** · 서버·배포·장애 대응 |
-| **제작** | CAD 활용 · 개인 3D 프린터 운용 · 아두이노 활용 |
-
 ## 🧩 Projects
 
-| 프로젝트 | 내용 |
+| 프로젝트 | 진행 · 담당 |
 | :--- | :--- |
-| **Homelab** | Xeon 서버 · Proxmox · OPNsense · Docker · Nginx · NAS · Tailscale 구성·운영 |
-| **[ZOJ](https://zoj.kr)** | Zerone Online Judge · 채점 서버·실행 환경·네트워크·배포 인프라 구축·운영 |
-| **[ZOJ Editor](https://editor.zoj.kr)** | 문제 제작·검증 도구 · 생성기·validator·checker·반례 탐색 |
-| **ZOJ AI 검증 에이전트** | 문제 자료 조회 · 반례 검증 · 실제 채점 연동 |
-| **[ZERONE](https://zerone01.kr)** | 학회 통합 관리 서비스 · 서버·배포 인프라 운영 |
-| **[SDY.CODER](https://coder.sdy.world)** | 웹 코드 에디터 · 다중 언어 실행 환경 구성 |
-| **[EFOO](https://에리카밥.com)** | 학식·주변 식당 정보 앱 · 팀장·기획 |
-| **[NMIXX](https://nmixx.net)** | 팬 콘텐츠·사진 검색·방송 아카이브 웹 운영 |
+| **[ZOJ](https://zoj.kr)** | Zerone Online Judge · 기획, 채점 서버 구축, 인프라·배포·운영 담당 |
+| **[ZOJ Editor](https://editor.zoj.kr)** | 문제 제작·검증 도구 · 생성기, validator, checker, 반례 탐색 |
+| **ZOJ AI 검증 에이전트** | 문제 자료 조회·반례 검증·실제 채점 연동 |
+| **[ZERONE](https://zerone01.kr)** | 학회 통합 관리 웹 · 운영 흐름 설계, 서버·인프라 담당 |
+| **[SDY.CODER](https://coder.sdy.world)** | 웹 코드 에디터 · 다중 언어 실행 환경 구성·운영 |
+| **[EFOO](https://에리카밥.com)** | 학식·주변 식당 정보 앱 · 팀장, 기획 담당 |
+| **[NMIXX](https://nmixx.net)** | 팬 콘텐츠·사진 검색·방송 아카이브 웹 구축·운영 |
+
+### 🖥 Homelab
+
+- **현재 운영 중인 모든 서비스 자체 호스팅**
+- 부품 선정·조립·수리 · OS·하이퍼바이저·VM 구성 · 네트워크 구축 · 서비스 배포·운영
+- Xeon · Proxmox · OPNsense · Docker · Nginx · NAS · Tailscale
 
 ### 🔗 Small tools
 
-[**Short**](https://go.sdy.world) — 단축 URL·QR 코드 생성 도구  
-[**Note**](https://note.sdy.world) — 텍스트·코드 협업 노트
+[**Short**](https://go.sdy.world) — 단축 URL·QR 코드 생성 도구 개발  
+[**Note**](https://note.sdy.world) — 텍스트·코드 협업 노트 개발
 
 ## 📌 Experience
 
 | 연도 | 활동 |
 | :---: | :--- |
-| **2026** | ZOJ · ZOJ Editor · AI 검증 에이전트 프로젝트 진행 |
+| **2026** | ZOJ · ZOJ Editor · AI 검증 에이전트 개발 |
 | | COSS&SDU 성과공유 포럼 — ZOJ 발표 |
 | | HEPC 대회 주관 · ZOJ 채점 인프라 운영 |
 | | ZOAC 전체 총괄 — 대회 운영 준비 |
@@ -70,9 +65,9 @@
 | **2019** | 교내대회 · 다물이 | **최우수상** |
 | | 제41회 경기도학생과학발명품경진대회 · 다물이 | **최우수상** |
 
-## 🛠 Tools
+## 🛠 Stack
 
-**Hardware · Infrastructure · Network**  
+**Infrastructure · Hardware**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
