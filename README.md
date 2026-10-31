@@ -6,7 +6,8 @@
   <a href="https://sdy.world"><img src="https://img.shields.io/badge/Portfolio-sdy.world-20283e?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://zoj.kr"><img src="https://img.shields.io/badge/ZOJ-zoj.kr-6763a5?style=for-the-badge" alt="ZOJ" /></a>
   <a href="https://editor.zoj.kr"><img src="https://img.shields.io/badge/ZOJ_Editor-editor.zoj.kr-6763a5?style=for-the-badge" alt="ZOJ Editor" /></a>
-  <a href="mailto:sdy423@hanyang.ac.kr"><img src="https://img.shields.io/badge/Email-Hanyang-789452?style=for-the-badge" alt="Email" /></a>
+  <a href="mailto:sdy@sdy.world"><img src="https://img.shields.io/badge/Email-sdy%40sdy.world-789452?style=for-the-badge" alt="Email" /></a>
+  <a href="mailto:sdy423@hanyang.ac.kr"><img src="https://img.shields.io/badge/School_Email-Hanyang-6763a5?style=for-the-badge" alt="학교 메일" /></a>
 </p>
 
 ## 👤 About
